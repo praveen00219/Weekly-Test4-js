@@ -51,7 +51,7 @@ This project uses the [Programming Hero Phone API](https://openapi.programming-h
 
 ## Demo
 
-[Live Demo](#)
+Check out live demo here : [Live Demo](https://praveen-hot-gadgets.netlify.app/)
 
 ## License
 
